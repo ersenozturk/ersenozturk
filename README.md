@@ -10,7 +10,7 @@
   <p><a href="https://ersenozturk.github.io/react-random-user-app" target="_blank" rel="noreferrer">react-random-user-app</a></p>
   <p><a href="https://ersenozturk.github.io/react-task-tracker" target="_blank" rel="noreferrer">react-task-tracker</a></p>
   <p><a href="https://ersenozturk.github.io/react-tour-place" target="_blank" rel="noreferrer">react-tour-places</a></p>
-  <p><a href=" https://ersenozturk.github.io/react-language-cards/ " target="_blank" rel="noreferrer">react-language-cards</a></p>
+  <p><a href="https://ersenozturk.github.io/react-language-cards/" target="_blank" rel="noreferrer">react-language-cards</a></p>
   
 </details>
   <hr/>
