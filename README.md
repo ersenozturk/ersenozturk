@@ -21,7 +21,7 @@
   <p><a href="https://ersenozturk.github.io/movie-booking-app/" target="_blank" rel="noreferrer">movie-booking-app</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/country-neighbours/" target="_blank" rel="noreferrer">country-neighbours</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/weather-app/" target="_blank" rel="noreferrer">Weather App</a></p>
-  <p><a href=" https://ersenozturk.github.io/Javascript-Exercises/registerUserPage-axios-exercise/" target="_blank" rel="noreferrer">registerUserPage-axios-exercise</a></p>
+  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/registerUserPage-axios-exercise/" target="_blank" rel="noreferrer">registerUserPage-axios-exercise</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/profileFinderFromApi/" target="_blank" rel="noreferrer">profileFinderFromApi</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/questionApp/" target="_blank" rel="noreferrer">questionApp</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/JSON-exercise1/" target="_blank" rel="noreferrer">JSON-exercise1</a></p>
