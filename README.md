@@ -4,6 +4,7 @@
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
+  <p><a href="https://react-random-app2.netlify.app/" target="_blank" rel="noreferrer">Random App2</a></p>
   <p><a href="https://fireblogapp-mikers.netlify.app/" target="_blank" rel="noreferrer">FireBlogApp</a></p>
   <p><a href="https://firebase-react-movie-app.netlify.app/" target="_blank" rel="noreferrer">react-movie-app</a></p>
   <p><a href="https://ersenozturk.github.io/react-recipe-app" target="_blank" rel="noreferrer">react-recipe-app</a></p>
