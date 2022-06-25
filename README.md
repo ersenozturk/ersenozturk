@@ -37,6 +37,7 @@
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/todoApp(advanced)/" target="_blank" rel="noreferrer">todoApp(advanced)</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/add-delete-item(intermediate)/" target="_blank" rel="noreferrer">add-delete-item(intermediate)</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/ping-pong-game/" target="_blank" rel="noreferrer">ping-pong-game</a></p>
+  <p><a href="https://kredi-hesapla.netlify.app/" target="_blank" rel="noreferrer">Kredi Hesaplama</a></p>
  
 </details>
   <hr/>
@@ -52,7 +53,7 @@
   <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/netflixSurvey/index.html" target="_blank" rel="noreferrer">netflixSurvey</a></p>
   <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/impossible_is_nothing_web_design/index.html" target="_blank" rel="noreferrer">impossible_is_nothing_web_design</a></p>
   <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/LanguageCourseSurveyForm/index.html" target="_blank" rel="noreferrer">LanguageCourseSurveyForm</a></p>
-  <p><a href="https://kredi-hesapla.netlify.app/" target="_blank" rel="noreferrer">Kredi Hesaplama</a></p>
+
   
 </details> 
   <hr/>
