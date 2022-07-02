@@ -20,7 +20,7 @@
   <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
  
   <p><a href="https://ersenozturk.github.io/movie-booking-app/" target="_blank" rel="noreferrer">movie-booking-app</a></p>
-  <p><a https://ersenozturk-portfolio-website.netlify.app/" target="_blank" rel="noreferrer">portfolio-website</a></p>
+  <p><a href="https://ersenozturk-portfolio-website.netlify.app/" target="_blank" rel="noreferrer">portfolio-website</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/country-neighbours/" target="_blank" rel="noreferrer">country-neighbours</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/weather-app/" target="_blank" rel="noreferrer">Weather App</a></p>
   <p><a href="https://ersenozturk.github.io/Javascript-Exercises/registerUserPage-axios-exercise/" target="_blank" rel="noreferrer">registerUserPage-axios-exercise</a></p>
